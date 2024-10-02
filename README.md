@@ -14,3 +14,4 @@
 + foundation-icons
 + 思源黑体
 + 有爱魔兽圆体
++ Godot Icon
